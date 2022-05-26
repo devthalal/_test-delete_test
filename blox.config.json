@@ -1,0 +1,1 @@
+{"name":"test","type":"ui-container","source":{"https":"https://github.com/devthalal/_test-delete_test","ssh":"git@github.com:devthalal/_test-delete_test.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
