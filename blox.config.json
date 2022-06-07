@@ -1,1 +1,25 @@
-{"name":"test","type":"ui-container","source":{"https":"https://github.com/devthalal/_test-delete_test","ssh":"git@github.com:devthalal/_test-delete_test.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
+{
+  "name": "test",
+  "type": "ui-container",
+  "source": {
+    "https": "https://github.com/devthalal/_test-delete_test",
+    "ssh": "git@github.com:devthalal/_test-delete_test.git"
+  },
+  "language": "nodejs",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "categories": [
+    "ecftDKjjZNvdMIHdopvZf",
+    "H-EdUjXuqTTz_fBzF8ZWh",
+    "yDCnVVjZkMD7-aJfFPK6w",
+    "At7QivyqrK9Z5BwfrthGC",
+    "Q9jRwJfFDpejI7tu35OHA",
+    "m_futkrdDI3WS5ISOKNoZ",
+    "9IkwykSFcVNLo24XgQoI9",
+    "FTiJSmsozpIK1N6IsjOQB",
+    "HdemsJzg4Tcw6UssW-ciB",
+    "SxfYggpGaoy_FHneBrmRE",
+    "YMZKQSg_PkThZrB7NuHn9"
+  ]
+}
